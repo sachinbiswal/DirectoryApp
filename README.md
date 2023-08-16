@@ -29,5 +29,7 @@ Sachin's Directory App is a simple React application that allows you to add and 
 ```
 ## Screenshot 
 ![image](https://github.com/sachinbiswal/DirectoryApp/assets/79940820/49136f4f-e81d-4605-bc85-dc4ba267d02c)
+![image](https://github.com/sachinbiswal/DirectoryApp/assets/79940820/c2f58783-c598-4fc3-81d7-3d8f4bde8659)
+
 
 

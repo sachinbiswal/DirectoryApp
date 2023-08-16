@@ -23,3 +23,11 @@ Sachin's Directory App is a simple React application that allows you to add and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/sachins-directory-app.git
+`
+```bash
+   cd sachins-directory-app
+```
+## Screenshot 
+![image](https://github.com/sachinbiswal/DirectoryApp/assets/79940820/49136f4f-e81d-4605-bc85-dc4ba267d02c)
+
+

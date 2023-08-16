@@ -1,0 +1,53 @@
+.row-icons>svg{
+    margin: 0 5px;
+    cursor: pointer;
+}
+td>input:focus{
+    border: none;
+    outline:1px solid rgb(236, 172, 172);
+}
+td>input{
+    border: 1px solid grey;
+    padding: 3px;
+}
+td>p{
+    color: red;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+.add-directory-btn{
+    padding: 4px 16px;
+    background:transparent;
+    background-color: navy;
+    color: white;
+    cursor: pointer;
+    margin: 10px 10px 10px 0;
+    float: right;
+    width:200px;
+    height: 40px;
+}
+.add-directory-btn:hover{
+    box-shadow: 0 0 10px 0 #002bd7 inset, 0 0 1px 2px #3200d7;
+    border: 3px solid #2000d7;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    
+  }
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    font-size: small;
+  }
+/* tbody>tr:nth-child(odd){
+    background-color: #f2f2f2;
+} */

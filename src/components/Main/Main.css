@@ -1,0 +1,15 @@
+
+.tabs>button{
+    padding: 4px 16px;
+    background:transparent;
+    cursor: pointer;
+    margin: 10px 10px 10px 0;
+    width: 200px;
+    height: 40px;
+    background-color: navy;
+    color: white;
+}
+.btn1:hover {
+    box-shadow: 0 0 10px 0 #002bd7 inset, 0 0 1px 2px #3200d7;
+    border: 3px solid #2000d7;
+  }
